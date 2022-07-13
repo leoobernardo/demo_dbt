@@ -1,0 +1,6 @@
+version: 2
+
+models:
+
+  - name: int_customer_nation__joined
+    description: Joining nation to extract nation name.
